@@ -1,0 +1,11 @@
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\bin\Release\NUnit.Tests1.dll
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\bin\Release\NUnit.Tests1.pdb
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\bin\Release\nunit.framework.dll
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\bin\Release\Xamarin.UITest.dll
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\bin\Release\nunit.framework.xml
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\bin\Release\Xamarin.UITest.xml
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\obj\Release\NUnit.Tests1.csprojAssemblyReference.cache
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\obj\Release\NUnit.Tests1.csproj.CoreCompileInputs.cache
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\obj\Release\NUnit.Tests1.csproj.CopyComplete
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\obj\Release\NUnit.Tests1.dll
+C:\Users\JDelzer\source\repos\TaskApp\NUnit.Tests1\obj\Release\NUnit.Tests1.pdb

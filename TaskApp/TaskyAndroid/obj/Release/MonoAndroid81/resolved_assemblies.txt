@@ -1,0 +1,13 @@
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\TaskyAndroid.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\Java.Interop.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\Mono.Android.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\Mono.Data.Sqlite.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\mscorlib.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\System.Core.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\System.Data.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\System.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\System.Xml.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\System.Runtime.Serialization.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\System.Transactions.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\System.Numerics.dll
+C:\Users\JDelzer\source\repos\mobile-testing-demo\TaskApp\TaskyAndroid\obj\Release\MonoAndroid81\android\assets\Mono.Security.dll
